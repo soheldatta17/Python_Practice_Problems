@@ -1,3 +1,4 @@
-# Greatest.py
+#Python_Practice_Problems
 
-Write a Python program to find the maximum value among n no. of values.
+For the ones who have just started Python programming. 
+This paper aims at revising all the students reagrding if else programming.
